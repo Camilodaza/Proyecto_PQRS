@@ -33,14 +33,14 @@
     <div class="page">
       
       <!--navegador-->
-        <?php include_once "/app/layouts/header.php"?>
+        <?php include "/app/layouts/header.php"?>
 
       <!--Swiper-->
       <section class="section swiper-container swiper-slider swiper-slider-1">
         <div class="swiper-wrapper text-center text-lg-left">
           <div class="swiper-slide img-fluid" data-slide-bg="images/fondo.png">
             <?php 
-      include_once"/app/php/conexionDB.php"
+      include "/app/php/conexionDB.php"
     ?>
            
           </div>
