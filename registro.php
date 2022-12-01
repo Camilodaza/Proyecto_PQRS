@@ -8,12 +8,12 @@
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="admin/dashboard/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/admin/dashboard/plugins/fontawesome-free/css/all.min.css">
   <!-- icheck bootstrap -->
-  <link rel="stylesheet" href="admin/dashboard/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="/admin/dashboard/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="icon" href="images/ufps.ico" type="image/x-icon">
-  <link rel="stylesheet" href="admin/dashboard/dist/css/adminlte.min.css">
+  <link rel="icon" href="/images/ufps.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/admin/dashboard/dist/css/adminlte.min.css">
 </head>
 <body class="hold-transition register-page">
 <div class="register-box">
@@ -44,7 +44,7 @@
                   <option value="CC">Cédula de Ciudadania</option>
                   <option value="TI">Tarjeta de Identidad</option>
                   <option value="NIT">NIT</option>
-                  <option value="Documento Extrangero">Documento Extrangero</option>
+                  <option value="Documento Extranjero">Documento Extrangero</option>
                   <option value="Pasaporte">Pasaporte</option>
                   </select>
 
@@ -104,10 +104,10 @@
 <!-- /.register-box -->
 
 <!-- jQuery -->
-<script src="admin/dashboard/plugins/jquery/jquery.min.js"></script>
+<script src="/admin/dashboard/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="admin/dashboard/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/admin/dashboard/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="admin/dashboard/dist/js/adminlte.min.js"></script>
+<script src="/admin/dashboard/dist/js/adminlte.min.js"></script>
 </body>
 </html>
