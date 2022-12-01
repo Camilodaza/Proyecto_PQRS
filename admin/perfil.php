@@ -1,6 +1,6 @@
 <?php  
   session_start();
-  include "../php/conexion.php";
+  include "../php/conexionDB.php";
   if (!isset($_SESSION['datos_login'])) {
     header("location: ../index.php"); 
   }
